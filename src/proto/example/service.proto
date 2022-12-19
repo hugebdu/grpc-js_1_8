@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+package example;
+
+service FailingService {
+  rpc Fail(Empty) returns (Empty);
+}
+
+message Empty {
+
+}
