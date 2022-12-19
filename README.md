@@ -1,4 +1,4 @@
-# regression in @grpc/grpc-js v1.8.0
+# regression in @grpc/grpc-js v1.8.0 - error responses
 
 ## env
 - MacOS v12.6 
